@@ -12,6 +12,7 @@
 * Tempo de animação
 * Velocidade
 * Mudança de cores
+* Adicionado estado hover
 
 <span align="center">
   
