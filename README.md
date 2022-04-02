@@ -15,12 +15,13 @@
 
 <span align="center">
   
-## Tela de inicio do Game
+## Tela Inicial
   
-  <img src="https://user-images.githubusercontent.com/101193102/160513044-1614fecf-ebfa-4a99-8f47-ba6da775870d.png"></img>
+  <img src="https://user-images.githubusercontent.com/78621483/161403954-f7bdd754-e928-4354-b443-6e6ed0f21235.png"></img>
 
 
-## Tela de Game Over
 
- <img src="https://user-images.githubusercontent.com/101193102/160513677-3352b23b-35a6-425d-b5dd-a06f3ba02f68.png"></img>
+## Tela de Vencedor
+
+ <img src="https://user-images.githubusercontent.com/78621483/161403988-aec3afc7-cd0f-41bb-b328-321e6359700a.png"></img>
 </span>
