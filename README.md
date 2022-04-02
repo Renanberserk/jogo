@@ -1,4 +1,4 @@
-# Mini-Game  Among Us
+# Mini-Game  Jogo da Velha
 * https://www.youtube.com/watch?v=M258B1b_pMs
 ## Conhecimentos
 
