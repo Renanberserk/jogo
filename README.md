@@ -28,4 +28,4 @@
 </span>
 
 ### Disponível em
-[GitHubPage](https://renanberserk.github.io/jogo/)
+[GitHubPage](https://renanberserk.github.io/jogo_da_velha_Renan_Lucas_O./)
